@@ -19,7 +19,7 @@ function ageChecker(age) {
     return "You are a kid";
   } else if (age > 19) {
     return "You are a grownup";
-  } 
+  }
   }
 
 function ternaryTeenager(age) {
